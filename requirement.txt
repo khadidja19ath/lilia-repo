@@ -1,5 +1,0 @@
-streamlit==1.45.1
-cryptography==45.0.3
-sympy==1.14.0
-qrcode==8.2
-pillow==11.2.1
