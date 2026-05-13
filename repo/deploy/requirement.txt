@@ -1,6 +1,0 @@
-streamlit
-cryptography
-sympy
-qrcode
-pillow
-
