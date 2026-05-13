@@ -19,6 +19,11 @@ import os
 import queue
 from datetime import datetime
 
+import subprocess
+import sys
+
+subprocess.check_call([sys.executable, "-m", "pip", "install", "cryptography"])
+
 # ─── Crypto Imports ───────────────────────────────────────────────────────────
 from cryptography.hazmat.primitives.asymmetric import rsa, padding as asym_padding, ec
 from cryptography.hazmat.primitives import hashes, serialization
