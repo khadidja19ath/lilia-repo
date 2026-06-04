@@ -1,4 +1,4 @@
-# 🔐 SecureCom — TP6 Cryptographie Appliquée
+# 🔐 SecureCom —  Cryptographie Appliquée
 
 Application interactive de sécurisation des communications, développée dans le cadre du TP 6 — Ing 3 Cybersécurité.
 
